@@ -1,0 +1,11 @@
+body {
+    background-color: beige;
+}
+.heading {
+    color: blue;
+    font-size: 50px;
+}
+#unique{
+    color: red;
+    font-size: 20px;
+}
